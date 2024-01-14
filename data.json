@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "text": "What is the capital of Japan?",
+    "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "correctAnswer": "Tokyo",
+    "points": 5,
+    "category": "Geography"
+  },
+  {
+    "id": 2,
+    "text": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correctAnswer": "Mars",
+    "points": 5,
+    "category": "Science"
+  },
+  {
+    "id": 3,
+    "text": "In which year did the World War II end?",
+    "options": ["1943", "1945", "1950", "1939"],
+    "correctAnswer": "1945",
+    "points": 5,
+    "category": "History"
+  },
+  {
+    "id": 4,
+    "text": "What is the largest mammal on Earth?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale",
+    "points": 5,
+    "category": "Biology"
+  },
+  {
+    "id": 5,
+    "text": "Which programming language is often used for building web pages?",
+    "options": ["Java", "Python", "JavaScript", "C++"],
+    "correctAnswer": "JavaScript",
+    "points": 5,
+    "category": "Programming"
+  },
+  {
+    "id": 6,
+    "text": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Emily Brontë"],
+    "correctAnswer": "William Shakespeare",
+    "points": 5,
+    "category": "Literature"
+  },
+  {
+    "id": 7,
+    "text": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": "Canberra",
+    "points": 5,
+    "category": "Geography"
+  },
+  {
+    "id": 8,
+    "text": "How many continents are there in the world?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7",
+    "points": 5,
+    "category": "Geography"
+  },
+  {
+    "id": 9,
+    "text": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "correctAnswer": "Au",
+    "points": 5,
+    "category": "Chemistry"
+  },
+  {
+    "id": 10,
+    "text": "Who is known as the 'Father of Computer Science'?",
+    "options": ["Alan Turing", "Bill Gates", "Ada Lovelace", "Steve Jobs"],
+    "correctAnswer": "Alan Turing",
+    "points": 5,
+    "category": "Technology"
+  }
+]
